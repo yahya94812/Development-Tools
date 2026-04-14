@@ -1,0 +1,208 @@
+{
+  "roots": [
+    "AI",
+    "CS-Fundamentals",
+    "Cloud-Computing",
+    "Data-Structures-And-Algorithms",
+    "Development-Tools",
+    "Neural-Image-Processing",
+    "Projects",
+    "Research-Papers-Implementation",
+    "Semantic-Search",
+    "Software-Engineering",
+    "Temp-Public",
+    "Web-Technologies",
+    "joplin",
+    "llama2.c",
+    "micrograd",
+    "nanochat",
+    "nn-zero-to-hero",
+    "yahya94812",
+    "yahya94812.github.io"
+  ],
+  "dependencies": {
+    "AI": [
+      "ML",
+      "Deep-Learning",
+      "Data-Science",
+      "Short-AI-Projects",
+      "Colab-Notebooks",
+      "Neural-Networks"
+    ],
+    "Cloud-Computing": [
+      "DevOps",
+      "Cloudflare-Basics",
+      "Supabase-Basics",
+      "Azure-Basics"
+    ],
+    "CS-Fundamentals": [
+      "Operating-System",
+      "Computer-Networks",
+      "Databases",
+      "Object-Oriented-Programming",
+      "Programming-Languages"
+    ],
+    "Projects": [
+      "Short-Projects",
+      "learn-flow-ai",
+      "share-fastly",
+      "pdalabshub.io",
+      "sharefastlyhub.io"
+    ],
+    "Web-Technologies": [
+      "React",
+      "APIs",
+      "Nextjs",
+      "Javascript",
+      "Web-UI"
+    ]
+  },
+  "all_repos": [
+    "AI",
+    "APIs",
+    "Azure-Basics",
+    "CS-Fundamentals",
+    "Cloud-Computing",
+    "Cloudflare-Basics",
+    "Colab-Notebooks",
+    "Computer-Networks",
+    "Data-Science",
+    "Data-Structures-And-Algorithms",
+    "Databases",
+    "Deep-Learning",
+    "DevOps",
+    "Development-Tools",
+    "Javascript",
+    "ML",
+    "Neural-Image-Processing",
+    "Neural-Networks",
+    "Nextjs",
+    "Object-Oriented-Programming",
+    "Operating-System",
+    "Programming-Languages",
+    "Projects",
+    "React",
+    "Research-Papers-Implementation",
+    "Semantic-Search",
+    "Short-AI-Projects",
+    "Short-Projects",
+    "Software-Engineering",
+    "Supabase-Basics",
+    "Temp-Public",
+    "Web-Technologies",
+    "Web-UI",
+    "joplin",
+    "learn-flow-ai",
+    "llama2.c",
+    "micrograd",
+    "nanochat",
+    "nn-zero-to-hero",
+    "share-fastly",
+    "yahya94812",
+    "yahya94812.github.io"
+  ],
+  "submodules": [
+    "APIs",
+    "Azure-Basics",
+    "Cloudflare-Basics",
+    "Colab-Notebooks",
+    "Computer-Networks",
+    "Data-Science",
+    "Databases",
+    "Deep-Learning",
+    "DevOps",
+    "Javascript",
+    "ML",
+    "Neural-Networks",
+    "Nextjs",
+    "Object-Oriented-Programming",
+    "Operating-System",
+    "Programming-Languages",
+    "React",
+    "Short-AI-Projects",
+    "Short-Projects",
+    "Supabase-Basics",
+    "Web-UI",
+    "learn-flow-ai",
+    "pdalabshub.io",
+    "share-fastly",
+    "sharefastlyhub.io"
+  ],
+  "reverse_dependencies": {
+    "ML": [
+      "AI"
+    ],
+    "Deep-Learning": [
+      "AI"
+    ],
+    "Data-Science": [
+      "AI"
+    ],
+    "Short-AI-Projects": [
+      "AI"
+    ],
+    "Colab-Notebooks": [
+      "AI"
+    ],
+    "Neural-Networks": [
+      "AI"
+    ],
+    "DevOps": [
+      "Cloud-Computing"
+    ],
+    "Cloudflare-Basics": [
+      "Cloud-Computing"
+    ],
+    "Supabase-Basics": [
+      "Cloud-Computing"
+    ],
+    "Azure-Basics": [
+      "Cloud-Computing"
+    ],
+    "Operating-System": [
+      "CS-Fundamentals"
+    ],
+    "Computer-Networks": [
+      "CS-Fundamentals"
+    ],
+    "Databases": [
+      "CS-Fundamentals"
+    ],
+    "Object-Oriented-Programming": [
+      "CS-Fundamentals"
+    ],
+    "Programming-Languages": [
+      "CS-Fundamentals"
+    ],
+    "Short-Projects": [
+      "Projects"
+    ],
+    "learn-flow-ai": [
+      "Projects"
+    ],
+    "share-fastly": [
+      "Projects"
+    ],
+    "pdalabshub.io": [
+      "Projects"
+    ],
+    "sharefastlyhub.io": [
+      "Projects"
+    ],
+    "React": [
+      "Web-Technologies"
+    ],
+    "APIs": [
+      "Web-Technologies"
+    ],
+    "Nextjs": [
+      "Web-Technologies"
+    ],
+    "Javascript": [
+      "Web-Technologies"
+    ],
+    "Web-UI": [
+      "Web-Technologies"
+    ]
+  }
+}
